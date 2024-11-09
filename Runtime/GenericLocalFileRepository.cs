@@ -1,4 +1,4 @@
-namespace Project
+namespace TanitakaTech.LocalFileRepository
 {
     public abstract class GenericLocalFileRepository<TData> : IGenericLocalFileRepository<TData> where TData : class
     {

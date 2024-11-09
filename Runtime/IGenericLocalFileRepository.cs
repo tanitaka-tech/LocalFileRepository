@@ -1,4 +1,4 @@
-namespace Project
+namespace TanitakaTech.LocalFileRepository
 {
     public interface IGenericLocalFileRepository<TData>
     {

@@ -1,4 +1,4 @@
-namespace Project
+namespace TanitakaTech.LocalFileRepository
 {
     /// <summary>
     /// データを暗号化/複合化するinterface

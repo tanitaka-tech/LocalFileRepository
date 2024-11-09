@@ -1,4 +1,4 @@
-namespace Project
+namespace TanitakaTech.LocalFileRepository
 {
     /// <summary>
     /// ローカルのファイル操作を行うinterface
